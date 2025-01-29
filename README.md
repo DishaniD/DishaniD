@@ -55,11 +55,12 @@
   <a href="https://www.centos.org/">
     <img src="https://img.icons8.com/color/96/000000/centos.png" alt="CentOS" style="height: 5rem"/>
   </a>
+  <a href="https://www.linux.org/">
+    <img src="https://img.icons8.com/color/96/000000/linux.png" alt="Linux" style="height: 5rem"/>
+  </a>
 </p>
 
-<!-- Visitor count -->
-<div align="center">
-<h3 align="center">Visitor Count: </h3> 
+
 
 
 
