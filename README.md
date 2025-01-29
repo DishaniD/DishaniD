@@ -3,25 +3,27 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> !! I'm Dishani.</h1>
 <h3 align="center">About Me :</h3>  
  <p>
- 👩‍🎓  
-<br>🐱 I'm 19 y/o, go by she/her pronouns.
-<br>💫 I’m a front-end web developer, currently learning cloud , React, Python and ML/AI.
+ <br>💫 I’m a front-end and backend web developer, currently learning cloud , React, Python and ML/AI.
+<br>🐱 Ask me about Reactjs & React-Native
 <br>⭐ Besides all that I love reading books, sometimes writing them(lol), music , tea  & all things aesthetic.
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
  <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
  </p>
+ <a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 <!-- Socials --> 
 
 <h3 align="center">Let's Connect! :</h3>  
 <div align="center">
-<a href="https://www.linkedin.com/in/mahii-variar-9865711b3/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
+<a href="https://www.linkedin.com/in/dishani-dilrukshi/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
-<a href="https://codepen.io/mahiiverse" target="blank">
+<a href="#" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
 </a>
 
-<a href="mailto:mahiivariar26@gmail.com" target="blank">
+<a href="mailto:dishani.dilrukshi970@gmail.com" target="blank">
 <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
 </a>
 
