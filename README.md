@@ -46,9 +46,15 @@
 
 <h3 align="center">Operating Systems:</h3>
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" style="height: 4rem"/>
+  <a href="https://www.microsoft.com/en-us/windows">
+    <img src="https://img.icons8.com/color/96/000000/windows-10.png" alt="Windows" style="height: 5rem"/>
+  </a>
+  <a href="https://ubuntu.com/">
+    <img src="https://img.icons8.com/color/96/000000/ubuntu--v1.png" alt="Ubuntu" style="height: 5rem"/>
+  </a>
+  <a href="https://www.centos.org/">
+    <img src="https://img.icons8.com/color/96/000000/centos.png" alt="CentOS" style="height: 5rem"/>
+  </a>
 </p>
 
 <!-- Visitor count -->
