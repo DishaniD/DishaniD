@@ -5,8 +5,8 @@
  <p>
  <br>💫 I’m a front-end and backend web developer, currently learning cloud , React, Python and ML/AI.
 <br>🐱 Ask me about Reactjs & React-Native
- - :technologist: I love using Software as a solution for every `Problem`.
- - :nerd_face: Always `learning new things`.
+ <br> - :technologist: I love using Software as a solution for every `Problem`.
+ <br> - :nerd_face: Always `learning new things`.
 <br>👩‍💻 Constantly learning. I'm very interested in Open Source!
   <br>⭐ Besides all that I love reading books, sometimes writing them(lol), music , tea  & all things aesthetic.
  <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
